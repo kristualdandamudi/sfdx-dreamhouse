@@ -1,0 +1,12 @@
+<aura:component>
+        <lightning:layout >
+                <lightning:layoutitem padding="around-small">
+                    
+                </lightning:layoutitem>
+                
+                <lightning:layoutitem padding="around-small" flexibility="grow">
+                   
+                </lightning:layoutitem>
+            </lightning:layout>
+
+</aura:component>	
